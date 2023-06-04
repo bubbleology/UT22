@@ -1,5 +1,5 @@
 <picture align="center">
-  <img alt="UT22 Render" src="/images/UT22-Banner.png">
+  <img alt="UT22 Render" src="/images/UT22-Banner-O.png">
 </picture>
 
 UT22 is a 22 key column-staggered choc unibody keyboard that is intended to be used with the Artsey or Taipo layout. It's essentially a left and right handed artsey/taipo board in a single body with extra thumbs and pinky keys. It uses a Nice!Nano and the PCB supports a Nice!View display. 
