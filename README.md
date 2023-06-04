@@ -1,6 +1,4 @@
-<picture align="center">
-  <img alt="UT22 Render" src="/images/UT22-Banner-O.png">
-</picture>
+<h1 align="left">UT22</h1>
 
 UT22 is a 22 key column-staggered choc unibody keyboard that is intended to be used with the Artsey or Taipo layout. It's essentially a left and right handed artsey/taipo board in a single body with extra thumbs and pinky keys. It uses a Nice!Nano and the PCB supports a Nice!View display. 
 
@@ -41,7 +39,7 @@ UT22 runs on ZMK. To modify and compile your own keymap you can clone the dedica
 
 ## CREDITS
 
-I've collected and built many different ergo boards but never got around to building my own PCB mainly due to the lack of available and especially easy to understand resources to get started. With the very comprehensive and wonderfully written article [Let's Design A Keyboard with Ergogen»](https://flatfootfox.com/ergogen-introduction/) by FlatFootFox I had no more excuses to not at least try and design my own PCB, so I went for it.
+I've collected and built many different ergo boards but never got around to building my own PCB mainly due to the lack of available and especially easy to understand resources to get started. With the very comprehensive and wonderfully written article [Let's Design A Keyboard with Ergogen](https://flatfootfox.com/ergogen-introduction/) by FlatFootFox I had no more excuses to not at least try and design my own PCB, so I went for it.
 
 With the help of the lovely and very supportive german ergo community I was finally able to finish my own PCB design. So special thanks goes out to:
 
@@ -58,11 +56,13 @@ With the help of the lovely and very supportive german ergo community I was fina
 <picture align="left">
   <img alt="Creative Commons (4.0 International License)" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png">
 </picture>
+
 This work is licensed under a
 Creative Commons (4.0 International License)
 Attribution—Noncommercial—Share Alike
-✖ | Sharing without ATTRIBUTION
-✔ | Remix Culture allowed
-✖ | Commercial Use
-✖ | Free Cultural Works
-✖ | Meets Open Definition 
+
+- ✖ | Sharing without ATTRIBUTION
+- ✔ | Remix Culture allowed
+- ✖ | Commercial Use
+- ✖ | Free Cultural Works
+- ✖ | Meets Open Definition 
