@@ -1,5 +1,5 @@
 <picture align="center">
-  <img alt="UT22 Render" src="/images/ut22-badge.svg">
+  <img alt="UT22 Render" src="/images/UT22-Banner.png">
 </picture>
 
 <h1 align="left">UT22</h1>
