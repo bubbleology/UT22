@@ -45,10 +45,10 @@ With the help of the lovely and very supportive german ergo community I was fina
 
 - [Marco "Bob"](https://github.com/GroooveBob) - for his wisdom and final review
 - [Kilipan "Apfel"](https://github.com/kilipan) - for answering all my questions
-- [GEIST](https://github.com/GEIGEIGEIST) - for providing support
-- [Albino-Zebra "Oldman"](https://github.com/Albino-Zebra/) - for emotional support
-- [FlatFootFox](https://twitter.com/flatfootfox) - for the wonderful introduction/guide
-- [duckyb "Kyek"](https://github.com/duckyb) - for his previous work that served as a reference
+- [GEIST](https://github.com/GEIGEIGEIST) - for providing professional support
+- [Albino-Zebra "Oldman"](https://github.com/Albino-Zebra/) - for emotional support and design inspiration
+- [FlatFootFox](https://twitter.com/flatfootfox) - for the wonderful introduction/guide to ergogen
+- [duckyb "Kyek"](https://github.com/duckyb) - for his previous work that served as a reference and his footprints and schematic. 
 
 ***
 
