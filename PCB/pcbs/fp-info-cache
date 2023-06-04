@@ -1,0 +1,127 @@
+30300034671657
+Bubble_Lib
+1pin_Battery
+Resitance 3 pas
+R
+0
+1
+1
+Bubble_Lib
+1pin_Battery_GND
+Resitance 3 pas
+R
+0
+1
+1
+Bubble_Lib
+MCU_XIAO-THT
+
+
+0
+18
+18
+Bubble_Lib
+SMD_Diode_B2
+Resitance 3 pas
+R
+0
+2
+2
+Bubble_Lib
+SMD_Diode_Tiny
+Resitance 3 pas
+R
+0
+6
+2
+Bubble_Lib
+SW_Hotswap_Kailh_Choc_V1_NoFSilk
+Kailh keyswitch Hotswap Socket
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout
+0
+2
+2
+Bubble_Lib
+SW_Hotswap_Kailh_Choc_V1_taipo
+Kailh keyswitch Hotswap Socket
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout
+0
+2
+2
+Bubble_Lib
+SW_Hotswap_Kailh_Choc_V1_tweaked
+Kailh keyswitch Hotswap Socket
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout
+0
+2
+2
+Bubble_Lib
+SW_Kailh_ChocV1_HS_and_Solder
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+Bubble_Lib
+SW_Kailh_ChocV1_HS_and_Solder_CS-CFX_Caps
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+Bubble_Lib
+SW_Kailh_choc_hs_plus_solder_no_silk
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+Bubble_Lib
+SW_RESET
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
+Bubble_Lib
+Tenting_Puck2_no_pads
+
+
+0
+3
+0
+Bubble_Lib
+mouse-bite-5mm-slot-with-space-for-track
+
+
+0
+0
+0
+Bubble_Lib
+nice_nano
+
+
+0
+24
+24
+Bubble_Lib
+nice_nano_taipo
+
+
+0
+24
+24
+Bubble_Lib
+nice_view
+
+
+0
+5
+5
+Bubble_Lib
+smt-slider-switch
+
+
+0
+7
+4
