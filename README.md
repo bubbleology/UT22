@@ -49,7 +49,7 @@ With the help of the lovely and very supportive german ergo community I was fina
 - [GEIST](https://github.com/GEIGEIGEIST) - for providing professional support
 - [Albino-Zebra "Oldman"](https://github.com/Albino-Zebra/) - for emotional support and design inspiration
 - [FlatFootFox](https://twitter.com/flatfootfox) - for the wonderful introduction/guide to ergogen
-- [duckyb "Kyek"](https://github.com/duckyb) - for his previous work that served as a reference and his footprints and schematic. 
+- [duckyb "Kyek"](https://github.com/duckyb) - for his [Urchin](https://github.com/duckyb/urchin) that served as a reference by using its footprints & schematic
 
 ***
 
