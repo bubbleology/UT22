@@ -6,7 +6,7 @@ UT22 is a 22 key column-staggered choc unibody keyboard that is intended to be u
 
 ## Picture
 
-![TOTEM layout](/images/UT22-Picture.jpg)
+![UT22 picture final build](/images/UT22-Picture.jpg)
 
 ***
 
@@ -14,6 +14,7 @@ UT22 is a 22 key column-staggered choc unibody keyboard that is intended to be u
 
 If you like to get a PCB to build your own UT22 you'll find the source files and a Gerber file [here](/PCB/).
 
+![UT22 picture pcb](/images/UT22-PCB.jpg)
 ***
 
 ### BOM
