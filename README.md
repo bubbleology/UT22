@@ -41,7 +41,7 @@ UT22 runs on ZMK. To modify and compile your own keymap you can clone the dedica
 
 I've collected and built many different ergo boards but never got around to building my own PCB mainly due to the lack of available and especially easy to understand resources to get started. With the very comprehensive and wonderfully written article [Let's Design A Keyboard with Ergogen](https://flatfootfox.com/ergogen-introduction/) by FlatFootFox I had no more excuses to not at least try and design my own PCB, so I went for it.
 
-With the help of the lovely and very supportive german ergo community I was finally able to finish my own PCB design. So special thanks goes out to:
+With the help of the lovely and very supportive german ergo community I was finally able to finish my own PCB design. And special thanks goes out to:
 
 - [Marco "Bob"](https://github.com/GroooveBob) - for his wisdom and final review
 - [Kilipan "Apfel"](https://github.com/kilipan) - for answering all my questions
