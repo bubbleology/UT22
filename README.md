@@ -37,7 +37,7 @@ For a complete build you'll additionally need the following components:
 
 ## FIRMWARE
 
-UT22 runs on ZMK. To modify and compile your own keymap you can clone the dedicated [ZMK config repository] (https://github.com/GEIGEIGEIST/zmk-config-totem).
+UT22 runs on ZMK. To modify and compile your own keymap you can clone the dedicated [ZMK config repository] (#).
 
 ***
 
